@@ -1,3 +1,5 @@
+![](https://github.com/jennarbates/jennarbates/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Jenna</h1>
 <h3 align="center">A Computer Science Undergraduate student from the University of Central Florida</h3>
 
