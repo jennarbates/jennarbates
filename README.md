@@ -7,7 +7,7 @@
 
 - 🤝 At my internship, I'm working with **Telemetry Data, MongoDB, and FireBase**
 
-- 💬 Ask me about **Where to start**
+- 💬 Ask me about **Where to start with Computer Science and Software Engineering!**
 
 - 📫 How to reach me **jennaraquelbates[at]gmail[dot]com**
 
