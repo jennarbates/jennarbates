@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [React](https://github.com/jennarbates/LearningReact)
 
-- 🤝 At my internship, I'm working with **Telemetry Data, MongoDB, and FireBase**
+- 🤝 At my [internship](https://watershedinnovation.com/), I'm working with **Telemetry Data, MongoDB, and FireBase**
 
 - 💬 Ask me about **Where to start with Computer Science and Software Engineering!**
 
