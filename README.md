@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Object Oriented Concepts](https://github.com/jennarbates/Learning-Java-and-Object-Oriented-Programming)
 
-- 🌱 I’m currently learning **React** (https://github.com/jennarbates/LearningReact)
+- 🌱 I’m currently learning [React](https://github.com/jennarbates/LearningReact)
 
 - 🤝 At my internship, I'm working with **Telemetry Data, MongoDB, and FireBase**
 
