@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Object Oriented Concepts](https://github.com/jennarbates/Learning-Java-and-Object-Oriented-Programming)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** (https://github.com/jennarbates/LearningReact)
 
 - 🤝 At my internship, I'm working with **Telemetry Data, MongoDB, and FireBase**
 
 - 💬 Ask me about **Where to start**
 
-- 📫 How to reach me **jennaraquelbates [at] gmail [dot] com**
+- 📫 How to reach me **jennaraquelbates[at]gmail[dot]com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
