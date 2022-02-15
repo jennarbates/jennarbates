@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Where to start with Computer Science and Software Engineering!**
 
-- 📫 How to reach me **jennaraquelbates[at]gmail[dot]com**
+- 📫 How to reach me: Message me on [LinkedIn](https://linkedin.com/in/jennarbates)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
